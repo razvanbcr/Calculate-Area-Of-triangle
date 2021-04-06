@@ -1,1 +1,1 @@
-# Calculate-Area-Of-triangle
+program calculates area of a triangle based on cosole input
